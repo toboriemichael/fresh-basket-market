@@ -229,7 +229,7 @@ body{
 }
 .footer-content{
     display: flex;
-    gap: 550px;
+    gap: 500px;
     padding-left: 30px;
     padding-top: 30px;
 }
