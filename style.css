@@ -263,13 +263,13 @@ body{
     align-items: center;
     padding: 3rem 4rem;
     border-radius: 1rem;
+    text-align: center;
 
 }
 
-@media (max-width: 600px){
+@media (max-width: 400px){
     .simplify{
-        flex-direction: column;      
-        
+        flex-direction: column; 
 
     }
 }
