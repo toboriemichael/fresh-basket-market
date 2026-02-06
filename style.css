@@ -267,12 +267,12 @@ body{
 
 }
 
-@media (max-width: 400px){
-    .simplify{
+@media (max-width: 450px) {
+    .simplify {
         font-size: 1.6rem;
-
     }
 }
+
 .shopping{
     font-size: 4rem;
     font-weight: 6rem;
